@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a87a8c8c-2c59-4122-ae58-827455b57b33" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/dart-and-flutter-workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dartVariables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dartVariables.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0eaf3386-4d32-40e9-9a1b-aad4cf1cf68b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1Pr5gsMJMhZQcTYh3YJhxXHYzJw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Py7tyeZNgWspxFt3YJwBJugpa3" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oops introduction" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../creating-classes-and-inheritance-tree" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -49,25 +38,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a87a8c8c-2c59-4122-ae58-827455b57b33" name="Default Changelist" comment="" />
-      <created>1566619490687</created>
+      <changelist id="0eaf3386-4d32-40e9-9a1b-aad4cf1cf68b" name="Default Changelist" comment="" />
+      <created>1566834700877</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566619490687</updated>
+      <updated>1566834700877</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

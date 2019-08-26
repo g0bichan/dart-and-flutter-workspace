@@ -1,17 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7426b99-7a0e-470f-8200-a5c722599fae" name="Default Changelist" comment="" />
+    <list default="true" id="f7426b99-7a0e-470f-8200-a5c722599fae" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/dart-and-flutter-workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dartVariables/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dartVariables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dartVariables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dartVariables/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dartVariables/bin/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dartVariables/dartVariables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dartVariables/dartVariables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/bin/main.dart" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1PvCkGQKfa9ktVBOjIY8K5RAWSJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dartVariables" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -45,5 +59,16 @@
       <updated>1566745324857</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

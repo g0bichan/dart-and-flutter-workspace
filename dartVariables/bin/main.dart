@@ -31,7 +31,7 @@ main(List<String> arguments) {
 
 
 
-  var age = 18;
+  var age = 19;
   switch (age){
     case 19:
       print("old enough");
@@ -46,7 +46,20 @@ main(List<String> arguments) {
       print("default $age");
   }
 
-
+var color = "gobi";
+  switch (color){
+    case "red":
+      print("stop");
+      break;
+    case "green":
+      print("go");
+      break;
+    case "yellow":
+      print("wait");
+      break;
+    default:
+      print("not working");
+  }
 
 
 
